@@ -1,6 +1,6 @@
 from django.db import models
 from datetime import datetime
-from pessoas.models import Pessoa
+from pessoas.model import Pessoa
 
 # Create your models here.
 
